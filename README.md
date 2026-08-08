@@ -1,6 +1,6 @@
 # DEG-Net
 
-Official implementation of the paper:
+The implementation of the paper:
 
 **DEG-Net: A Dynamic Encoding and Geometric Constraint Network for Medical Image Segmentation**
 
