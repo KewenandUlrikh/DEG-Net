@@ -6,13 +6,19 @@ The implementation of the paper:
 
 ## Status
 
-We will upload our code soon. The full implementation will be released upon paper acceptance.
+The full implementation, pretrained weights, and training scripts will be publicly released upon paper acceptance.
 
 ## Citation
-Coming soon.
+
+​```bibtex
+@article{degnet2026,
+  title = {DEG-Net: A Dynamic Encoding and Geometric Constraint Network for Medical Image Segmentation},
+  year  = {2026},
+  note  = {Under review}
+}
+​```
 
 ## Contact
-For questions, please open an issue or contact: <LKW-Kewen@outlook.com>
 
-
+For questions, please open an issue in this repository.
 
