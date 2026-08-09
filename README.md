@@ -2,7 +2,7 @@
 
 The implementation of the paper:
 
-**DEG-Net: A Dynamic Encoding and Geometric Constraint Network for Medical Image Segmentation**
+**DEG-Net: A Medical Image Segmentation Network Integrating Dynamic Encoding and Geometric Guidance**
 
 ## Status
 
